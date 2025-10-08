@@ -7,4 +7,6 @@
 
 // Calculate volume of shere
 // Radius = 4cm
-console.log("4 / 3 * 3.14 * 4 * 4 * 4 ="+String(4/3*3.14*4*4*4))
+console.log("4 / 3 * 3.14 * 4 * 4 * 4 = " + String(4 / 3 * 3.14 * 4 * 4 * 4))
+
+console.log("\nDone.")

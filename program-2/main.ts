@@ -7,5 +7,6 @@
 
 // Calculate area of a circle
 // Radius = 14cm
-console.log("3.14 * 14 * 14 ="+String(3.14*14*14));
+console.log("3.14 * 14 * 14 = " + String(3.14 * 14 * 14));
 
+console.log("\nDone.")

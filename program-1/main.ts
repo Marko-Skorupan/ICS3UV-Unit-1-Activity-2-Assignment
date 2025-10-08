@@ -6,6 +6,6 @@
  */
 
 // Print the eqation for 34 C to F
-console.log("9 / 5 * C + 32 ="+String(9/5*34+32));
+console.log("9 / 5 * 34 + 32 = " + String(9 / 5 * 34 + 32));
 
-console.log("\nDone")
+console.log("\nDone.")
